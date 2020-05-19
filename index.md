@@ -15,6 +15,12 @@ Welcome to Owasp [Cuddalore](https://en.wikipedia.org/wiki/Cuddalore) chapter Ho
 | ---------------- | --------------- | --------------- | --------------- |
 | May3rd 2020 Sunday | Getting Started with CyberSecurity | [![Registration](https://img.shields.io/badge/%F0%9F%93%83-Register-green)](https://www.townscript.com/e/getting-started-with-cybersecurity-320024) | Online Webinar |
 
+## Past Events
+| DATE | TTITLE | VENUE | 
+| ---------------- | --------------- | --------------- |
+| May 3rd 2020 Sunday | Getting Started with CyberSecurity | Online Webinar |
+| May 17th 2020 Sunday | Reverse Engineering For beginners | Online Webinar | 
+
 ## Important Infosec Links:
 
 ## Contact Us:
