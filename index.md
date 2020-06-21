@@ -11,8 +11,7 @@ region: Asia
 Welcome to Owasp [Cuddalore](https://en.wikipedia.org/wiki/Cuddalore) chapter Homepage. We are located in a beautiful state of India called [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu). The main motive of this chapter is to enrich infosec community in our place.
 
 ## Upcoming Events
-| DATE | TTITLE | REGISTRATION LINK | VENUE |
-| ---------------- | --------------- | --------------- | --------------- |
+DATE | TTITLE | REGISTRATION LINK | VENUE 
 
 ## Past Events
 | DATE | TTITLE | VENUE | 
