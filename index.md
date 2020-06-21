@@ -32,5 +32,5 @@ Welcome to Owasp [Cuddalore](https://en.wikipedia.org/wiki/Cuddalore) chapter Ho
 
 ## Contact Us:
 
-[![Twitter](https://img.shields.io/badge/%F0%9F%90%A6-Twitter-blue)](https://www.twitter.com/owaspcuddalore) [![Meetup](https://img.shields.io/badge/%F0%9F%8E%89-Meetup-red)](https://www.meetup.com/OWASP-Cuddalore-Chapter) [![ContactUs](https://img.shields.io/badge/%F0%9F%93%83-ContactUs-orange)](gopalsamy.rajendran@owasp.org)
+[![Twitter](https://img.shields.io/badge/%F0%9F%90%A6-Twitter-blue)](https://www.twitter.com/owaspcuddalore) [![Meetup](https://img.shields.io/badge/%F0%9F%8E%89-Meetup-red)](https://www.meetup.com/OWASP-Cuddalore-Chapter) [![ContactUs](https://img.shields.io/badge/%F0%9F%93%83-ContactUs-orange)](mailto:gopalsamy.rajendran@owasp.org)
 
