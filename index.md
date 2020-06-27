@@ -27,9 +27,6 @@ Welcome to Owasp [Cuddalore](https://en.wikipedia.org/wiki/Cuddalore) chapter Ho
 | May 17th 2020 Sunday | Reverse Engineering For beginners | Online Webinar | [![Download](https://img.shields.io/badge/%F0%9F%94%BB-Download-blue)](https://github.com/owaspcuddalore/slides/tree/master/Webinar%202)
 
 ---
-
-## Important Infosec Links:
-
 ## Contact Us:
 
 [![Twitter](https://img.shields.io/badge/%F0%9F%90%A6-Twitter-blue)](https://www.twitter.com/owaspcuddalore) [![Meetup](https://img.shields.io/badge/%F0%9F%8E%89-Meetup-red)](https://www.meetup.com/OWASP-Cuddalore-Chapter) [![ContactUs](https://img.shields.io/badge/%F0%9F%93%83-ContactUs-orange)](mailto:gopalsamy.rajendran@owasp.org)
