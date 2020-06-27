@@ -15,7 +15,7 @@ Welcome to Owasp [Cuddalore](https://en.wikipedia.org/wiki/Cuddalore) chapter Ho
 
 | DATE     | TITLE | REGISTRATION LINK   | VENUE |
 | :---        |    :----:   |      :----: |  ---: |
-|      |       |    |      |
+|   05-07-2020  |   The significance of mobile exploit application   | [![Register](https://img.shields.io/badge/%F0%9F%93%83-Register-green)](https://bit.ly/2B8rm3M) |  Online    |
 
 ---
 
