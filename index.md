@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Cuddalore
 tags:  cuddalore
 region: Asia
+meetup-group: OWASP-Cuddalore-Chapter
+country: India
+postal-code: 
 
 ---
 
