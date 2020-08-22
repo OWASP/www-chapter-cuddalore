@@ -28,7 +28,7 @@ Welcome to Owasp [Cuddalore](https://en.wikipedia.org/wiki/Cuddalore) chapter Ho
 | :---     | :----:  | :----: | ---:
 | May 3rd 2020 Sunday | Getting Started with CyberSecurity | Online Webinar | 
 | May 17th 2020 Sunday | Reverse Engineering For beginners | Online Webinar | [![Download](https://img.shields.io/badge/%F0%9F%94%BB-Download-blue)](https://github.com/owaspcuddalore/slides/tree/master/Webinar%202)
-|   05-07-2020  |   The significance of mobile exploit application   | Online Webinar |     |
+|   Jul 5th 2020 Sunday  |   The significance of mobile exploit application   | Online Webinar |     |
 
 ---
 ## Contact Us:
