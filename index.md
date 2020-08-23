@@ -18,7 +18,7 @@ Welcome to Owasp [Cuddalore](https://en.wikipedia.org/wiki/Cuddalore) chapter Ho
 
 | DATE     | TITLE | REGISTRATION LINK   | VENUE |
 | :---        |    :----:   |      :----: |  ---: |
-|    |     | |     |
+| Aug 30th 2020 Sunday  |  Getting Started with Boot 2 Root CTF Challenges   | [![Click Here !!](https://img.shields.io/badge/%20%F0%9F%91%86-Click%20Here..!-red)](https://bit.ly/32fds9y) | Online |
 
 ---
 
