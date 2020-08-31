@@ -1,11 +1,9 @@
 ---
-title: pastevents
-displaytext: Past Events
-layout: null
+title: Past Events
+layout:  null
 tab: true
-order: 3
-tags: OWASP Cuddalore Chapter - INDIA
-
+order: 1
+tags: example-tag
 ---
 
 ## Past Events
