@@ -10,7 +10,7 @@ tags: cuddalore
 
 ## Past Events
 
-'''Testing'''
+```Stay in touch with us to get updates about upcoming meetings!!!``` 
 <hr>
 
 <br />
