@@ -10,7 +10,7 @@ tags: cuddalore
 
 ## Past Events
 
-```Stay in touch with us to get updates about upcoming meetings!!!``` 
+```Stay Connected to Know more about upcoming meetings!!!``` 
 <hr>
 
 <br />
