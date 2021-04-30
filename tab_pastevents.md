@@ -23,7 +23,7 @@ tags: cuddalore
 |   Jul 5th 2020 Sunday  |   The significance of mobile exploit application   | Online Webinar |  [![View Slide](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-View%20Slide-red)](https://prezi.com/view/COwhpljzB6lsIizrhks2/)   |
 | Aug 30th 2020 Sunday |  Getting Started with Boot 2 Root CTF Challenges | Online Webinar | --- |
 | Dec 27th 2020 Sunday |  Bash and Recon | Online Webinar | [![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://vimeo.com/496072204)  |
-| April 14th - April 18th 2021 | Pentesting Playground | |
+| April 14th - April 18th 2021 | Pentesting Playground | Online Webinar | |
 
 
 ---
