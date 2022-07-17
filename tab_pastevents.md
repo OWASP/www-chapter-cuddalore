@@ -25,7 +25,7 @@ tags: cuddalore
 | Dec 27th 2020 Sunday |  Bash and Recon | Online Webinar | [![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://vimeo.com/496072204)  |
 | April 14th - April 18th 2021 | Pentesting Playground | Online Webinar |  |
 | April 3rd 2022 | Android Pentesting - Deep Link Vulnerability | Online Webinar |[![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://www.youtube.com/watch?v=MN8ssfWVf_c&t=1s)|
-| July 2nd 2022 | Yet to be anounced | Online Webinar ||
+| July 23rd 2022 | Yet to be anounced | Online Webinar ||
 
 
 ---
