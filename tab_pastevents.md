@@ -26,8 +26,8 @@ tags: cuddalore
 | April 14th - April 18th 2021 | Pentesting Playground | Online Webinar |  |
 | April 3rd 2022 | Android Pentesting - Deep Link Vulnerability | Online Webinar |[![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://www.youtube.com/watch?v=MN8ssfWVf_c&t=1s)|
 | July 23rd 2022 | Web 3.0-Decentralized Social Media [DESO] | Online Webinar |[![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://youtu.be/EHq1bILSOSQ)|
-| August 6th 2022 | Web 3.0- Basics of Blockchain and DeFi | Online Webinar | Comming Soon...! |
-
+| August 6th 2022 | Web 3.0- Basics of Blockchain and DeFi | Online Webinar | [![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://youtu.be/EHq1bILSOSQ)|
+| January 28th 2023 | Smart Contract Security | Online Webinar | [![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://youtu.be/H8vXM-kEyrE)|
 ---
 
 
