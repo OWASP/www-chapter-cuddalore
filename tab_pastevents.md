@@ -28,6 +28,7 @@ tags: cuddalore
 | July 23rd 2022 | Web 3.0-Decentralized Social Media [DESO] | Online Webinar |[![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://youtu.be/EHq1bILSOSQ)|
 | August 6th 2022 | Web 3.0- Basics of Blockchain and DeFi | Online Webinar | [![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://youtu.be/EHq1bILSOSQ)|
 | January 28th 2023 | Smart Contract Security | Online Webinar | [![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://youtu.be/H8vXM-kEyrE)|
+
 ---
 
 
