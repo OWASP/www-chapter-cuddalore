@@ -14,7 +14,7 @@ postal-code:
 Welcome to Owasp [Cuddalore](https://en.wikipedia.org/wiki/Cuddalore) chapter Homepage. We are located in a beautiful state of India called [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu). The main motive of this chapter is to enrich infosec community in our place.
 
 ## Announcement 
-  Due to COVID-19 All events will be conducted through Online. 
+  Planning for something new...!
 
 ---
 
