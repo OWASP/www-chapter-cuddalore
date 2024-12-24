@@ -32,7 +32,7 @@ tags: cuddalore
 | May 12th 2024 | Cybersecurity careers in the AI era: Stay ahead of the curve | Online Webinar | [![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://www.youtube.com/watch?v=8ouOvoDox5w)|
 | June 8th 2024 | Cracking the Code: Deep dive into malware analysis | Online Webinar | [![Video](https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-Video-red)](https://youtu.be/LZU7APendqQ?si=IM3LfUY0l-55cCdX)|
 | January 11th 2025 | Android Pentesting (More details will be shared soon) | Online Webinar | |
-| February 15th 2024 | Surprise Session | Online Webinar | |
+| February 15th 2025 | Surprise Session | Online Webinar | |
 
 ---
 
