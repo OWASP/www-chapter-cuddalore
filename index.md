@@ -11,11 +11,11 @@ postal-code:
 ---
 
 ## Welcome
-Welcome to Owasp [Cuddalore](https://en.wikipedia.org/wiki/Cuddalore) chapter Homepage. We are located in a beautiful state of India called [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu). The main motive of this chapter is to enrich infosec community in our place.
+Welcome to Owasp [Cuddalore](https://en.wikipedia.org/wiki/Cuddalore) chapter Homepage. We are proud to be part of the vibrant state of [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu). India. Our mission is to strengthen and grow the Cyber security community, fostering collaboration and knowledge-sharing within Cuddalore and its neighboring regions. Join us as we work together to create a more secure digital environment for all.
 
 ## Announcement 
-  Planning for something new...!
-
+  Those who are interested in presenting talks, please reach out to us via email!
+  
 ---
 
 ### Check our Upcoming Meetup Events:
