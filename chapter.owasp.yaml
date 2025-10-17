@@ -1,0 +1,26 @@
+leaders:
+  - name: Gopalsamy Rajendran
+    email: gopalsamy.rajendran@owasp.org
+  - name: Jayakumar Jayabalan
+    email: jayakumar.jayabalan@owasp.org
+  - name: Rakesh Elamaran
+    email: rakesh.elamaran@owasp.org
+    github: rakeshelamaran98
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Cuddalore
+  latitude: 11.52020705
+  longitude: 79.33963564750636
+meetup_group: OWASP-Cuddalore-Chapter
+name: OWASP Cuddalore
+repositories:
+  - name: www-chapter-cuddalore
+    url: https://github.com/OWASP/www-chapter-cuddalore
+    description: OWASP Foundation Web Repository
+tags:
+  - cuddalore
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-cuddalore
